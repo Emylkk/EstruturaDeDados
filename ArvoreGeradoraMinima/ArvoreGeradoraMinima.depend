@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1575116747 source:c:\users\o zilean\desktop\nova pasta\agm.c
+	"agm.h"
+
+1574783828 c:\users\o zilean\desktop\nova pasta\agm.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<strings.h>
+
+1575087332 source:e:\nova pasta\agm.c
+	"agm.h"
+
+1575110100 e:\nova pasta\agm.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<strings.h>
+
